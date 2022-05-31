@@ -1,11 +1,9 @@
-import './App.css'
+import './App.css';
 
 function App() {
-  return (
-    <div >
-      work
-    </div>
-  );
+  console.log();
+
+  return <div>worksdasd asdsassd a sa dds</div>;
 }
 
 export default App;
